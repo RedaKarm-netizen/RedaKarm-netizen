@@ -1,58 +1,55 @@
-# Hey there, I'm [ٌReda Karam](https://yousefdergham.vercel.app/) 👋
-
-**Full-stack Web Developer · CS Student · Coffee Lover ☕**
-
-💼 **Current:** Full Stack Engineer at [Quran.Foundation](https://quran.foundation)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge" alt="Profile Views"/>
-</p>
-
-## 🚀 About Me
-
-<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
-
-I am a Software Engineer skilled in React, Next.js, WordPress, PHP, and more. <br/>
-I have worked on projects that served thousands of users, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
+AI Student · Biomedical AI Track · Building AI for Healthcare
 
 
 
 
-<br clear="right"/>
+---
 
-## 🔧 My Tech Stack
+### 🧬 Bioinformatics
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
-![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Bioinformatics](https://img.shields.io/badge/Bioinformatics-1D9E75?style=flat&logoColor=white)
+![NGS Analysis](https://img.shields.io/badge/NGS_Analysis-0F6E56?style=flat&logoColor=white)
+![FastQC](https://img.shields.io/badge/FastQC-085041?style=flat&logoColor=white)
+![BLAST](https://img.shields.io/badge/BLAST-04342C?style=flat&logoColor=white)
+![NCBI SRA](https://img.shields.io/badge/NCBI_SRA-1D9E75?style=flat&logoColor=white)
 
-## 📊 GitHub Stats
+> 🔬 Currently working on: NGS transcriptomics pipeline (*Drosophila melanogaster* — PRJNA781995)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefdergham&layout=compact&theme=dark" alt="Top Languages"/>
-</div>
+---
 
-## 🎯 LeetCode Heatmap
+### 🤖 AI / ML
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/yousefmohameddergham?theme=catppuccinMocha&font=Varta&ext=heatmap" alt="LeetCode Stats"/>
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+### 🌐 Web
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+---
+
+### 🛠️ Tools & OS
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reda-karam-55b1793aa)
+
+---
 
 
-## 🔗 Connect with Me
 
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yousefdergham.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yousefdergham)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YousefMohamed01)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yousefdergham)
 
-</div>
+  "Using AI to make healthcare better — one model at a time." 🧬
